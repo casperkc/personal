@@ -4,9 +4,7 @@ Hello there! My name is Casper Kønigsfeldt.
 
 ## Technologies
 ```
-.NET, .NET Core, ASP.NET, ASP.NET Core, SQL Server,
-Entity Framework,, Microsoft Azure, Hangfire
-Angular, Ionic, Cordova, Capacitor
+.NET, .NET Core, ASP.NET, ASP.NET Core, SQL Server, Entity Framework,, Microsoft Azure, Hangfire, Angular, Ionic, Cordova, Capacitor
 ```
 
 ## Experience
