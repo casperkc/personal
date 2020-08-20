@@ -11,6 +11,10 @@ Angular, Ionic, Cordova, Capacitor
 
 ## Experience
 
+2020 - **Next Stay** (Software Developer)
+
+> I have developed a point-of-sale application with order and item management. The application is developed with a ASP.NET Core backend with an Ionic frontend running in browser, on Android and iOS.
+
 2017 - 2019 — **Human Risks** (Partner & CTO)
  
 > At Human Risks i developed an application from scratch - built with .NET and Angular, running completely in the cloud, designed to help large businesses handling and mitigating threats, manage recurring tasks within a mobile application developed with Ionic.
