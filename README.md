@@ -11,7 +11,7 @@ Angular, Ionic, Cordova, Capacitor
 
 ## Experience
 
-2020 - **Next Stay** (Software Developer)
+2020 - 2021 **Next Stay** (Software Developer)
 
 > I have developed a point-of-sale application with order and item management. The application is developed with a ASP.NET Core backend and an Ionic frontend running in a browser, on Android and iOS.
 
